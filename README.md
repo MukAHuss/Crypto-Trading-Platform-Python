@@ -3,10 +3,10 @@ CST1510 Coursework with custom API integration for Live prices of cryptocurrenci
 
 ## UML Diagrams
 
-# Server-side:
+ Server-side:
   <img width="1240" height="796" alt="image" src="https://github.com/user-attachments/assets/d10f6453-ec7a-498b-befa-7067910c5316" />
 
-# Client-side:
+ Client-side:
   <img width="1086" height="590" alt="image" src="https://github.com/user-attachments/assets/cd812908-63f5-4528-8660-5533f8a13815" />
 
 
